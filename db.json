@@ -1,0 +1,529 @@
+{
+  "candidatos": [
+    {
+      "id": 1,
+      "name": "PAULO HENRIQUE SIMON DE OLIVEIRA",
+      "anxietyLvl": 0,
+      "coffeeCups": 125,
+      "checks": 884
+    },
+    {
+      "id": 2,
+      "name": "AMANDA REGINA DE OLIVEIRA MAZUROK",
+      "anxietyLvl": 80,
+      "coffeeCups": 119,
+      "checks": 742
+    },
+    {
+      "id": 3,
+      "name": "MATEUS FELIPE BULLERJAHN",
+      "anxietyLvl": 4,
+      "coffeeCups": 71,
+      "checks": 447
+    },
+    {
+      "id": 4,
+      "name": "RODRIGO PYRRHO NASCIMENTO",
+      "anxietyLvl": 7,
+      "coffeeCups": 190,
+      "checks": 165
+    },
+    {
+      "id": 5,
+      "name": "RAFAEL RODRIGUES GAMAS DOMINGOS ARAGAO",
+      "anxietyLvl": 99,
+      "coffeeCups": 192,
+      "checks": 93
+    },
+    {
+      "id": 6,
+      "name": "DANIEL MATHEUS DE OLIVEIRA",
+      "anxietyLvl": 58,
+      "coffeeCups": 33,
+      "checks": 921
+    },
+    {
+      "id": 7,
+      "name": "JOSE ROBERTO INTERAMINENSE SOARES",
+      "anxietyLvl": 2,
+      "coffeeCups": 92,
+      "checks": 758
+    },
+    {
+      "id": 8,
+      "name": "RICK OLIVEIRA ALVES",
+      "anxietyLvl": 91,
+      "coffeeCups": 118,
+      "checks": 117
+    },
+    {
+      "id": 9,
+      "name": "MATHEUS VILELA DINIZ MAIA",
+      "anxietyLvl": 35,
+      "coffeeCups": 88,
+      "checks": 172
+    },
+    {
+      "id": 10,
+      "name": "TADEU JULIACE LOPES FONTOURA",
+      "anxietyLvl": 23,
+      "coffeeCups": 139,
+      "checks": 110
+    },
+    {
+      "id": 11,
+      "name": "THAYNA PINTO FAGUNDES",
+      "anxietyLvl": 61,
+      "coffeeCups": 6,
+      "checks": 167
+    },
+    {
+      "id": 12,
+      "name": "RENAN FERREIRA DE PONTES",
+      "anxietyLvl": 23,
+      "coffeeCups": 9,
+      "checks": 681
+    },
+    {
+      "id": 13,
+      "name": "DOUGLAS HENRIQUE LEMOS LEAL",
+      "anxietyLvl": 11,
+      "coffeeCups": 28,
+      "checks": 754
+    },
+    {
+      "id": 14,
+      "name": "CASSIANO ARAUJO OLIVEIRA",
+      "anxietyLvl": 66,
+      "coffeeCups": 150,
+      "checks": 338
+    },
+    {
+      "id": 15,
+      "name": "WENDELL DELMONDES VASCONCELOS",
+      "anxietyLvl": 56,
+      "coffeeCups": 75,
+      "checks": 765
+    },
+    {
+      "id": 16,
+      "name": "FRANCISCO FABIO SILVA BARRETO",
+      "anxietyLvl": 47,
+      "coffeeCups": 118,
+      "checks": 632
+    },
+    {
+      "id": 17,
+      "name": "LEANDRO SOBRAL ROMANO",
+      "anxietyLvl": 64,
+      "coffeeCups": 153,
+      "checks": 172
+    },
+    {
+      "id": 18,
+      "name": "TIAGO BRITO MERCURI",
+      "anxietyLvl": 69,
+      "coffeeCups": 151,
+      "checks": 204
+    },
+    {
+      "id": 19,
+      "name": "NICHOLAS PIRES MORAIS",
+      "anxietyLvl": 32,
+      "coffeeCups": 187,
+      "checks": 934
+    },
+    {
+      "id": 20,
+      "name": "FELICIO JOSE LULA CORTES",
+      "anxietyLvl": 80,
+      "coffeeCups": 1,
+      "checks": 691
+    },
+    {
+      "id": 21,
+      "name": "HUGO PATRICIO DE FREITAS",
+      "anxietyLvl": 9,
+      "coffeeCups": 160,
+      "checks": 877
+    },
+    {
+      "id": 22,
+      "name": "CRISTIANE ALVES BATISTA",
+      "anxietyLvl": 42,
+      "coffeeCups": 142,
+      "checks": 609
+    },
+    {
+      "id": 23,
+      "name": "PAULO HENRYQUE ALMEIDA SARMENTO",
+      "anxietyLvl": 22,
+      "coffeeCups": 63,
+      "checks": 373
+    },
+    {
+      "id": 24,
+      "name": "DANIEL LOURENCO DA COSTA CALDAS",
+      "anxietyLvl": 26,
+      "coffeeCups": 97,
+      "checks": 827
+    },
+    {
+      "id": 25,
+      "name": "ROBERTO MURILO MARTINS CORDEIRO",
+      "anxietyLvl": 64,
+      "coffeeCups": 36,
+      "checks": 71
+    },
+    {
+      "id": 26,
+      "name": "CARLOS ADRIANO SANTANA SILVA",
+      "anxietyLvl": 61,
+      "coffeeCups": 46,
+      "checks": 853
+    },
+    {
+      "id": 27,
+      "name": "ERIK LOPES DA SILVA",
+      "anxietyLvl": 21,
+      "coffeeCups": 44,
+      "checks": 561
+    },
+    {
+      "id": 28,
+      "name": "EDSON OLIVEIRA SILVA",
+      "anxietyLvl": 29,
+      "coffeeCups": 90,
+      "checks": 454
+    },
+    {
+      "id": 29,
+      "name": "DANIELE BRANCO NALIFICO",
+      "anxietyLvl": 19,
+      "coffeeCups": 66,
+      "checks": 614
+    },
+    {
+      "id": 30,
+      "name": "BRUNO FAVALLI",
+      "anxietyLvl": 52,
+      "coffeeCups": 151,
+      "checks": 767
+    },
+    {
+      "id": 31,
+      "name": "LEONARDO CEZAR DE ARAUJO MONTEIRO",
+      "anxietyLvl": 98,
+      "coffeeCups": 121,
+      "checks": 226
+    },
+    {
+      "id": 32,
+      "name": "ANDRESA REIS FERNANDES",
+      "anxietyLvl": 28,
+      "coffeeCups": 78,
+      "checks": 462
+    },
+    {
+      "id": 33,
+      "name": "ARTHUR MARTINS ALVES",
+      "anxietyLvl": 32,
+      "coffeeCups": 79,
+      "checks": 755
+    },
+    {
+      "id": 34,
+      "name": "LIA GUIMARAES DOS SANTOS",
+      "anxietyLvl": 56,
+      "coffeeCups": 54,
+      "checks": 352
+    },
+    {
+      "id": 35,
+      "name": "BIANCA CASTRO DEUS ALMEIDA SEQUINEL",
+      "anxietyLvl": 80,
+      "coffeeCups": 37,
+      "checks": 685
+    },
+    {
+      "id": 36,
+      "name": "ROGERIO DE SOUZA SERTAO",
+      "anxietyLvl": 47,
+      "coffeeCups": 166,
+      "checks": 351
+    },
+    {
+      "id": 37,
+      "name": "MARCOS DA SILVA CEO",
+      "anxietyLvl": 52,
+      "coffeeCups": 166,
+      "checks": 280
+    },
+    {
+      "id": 38,
+      "name": "ARIMAR SILVA SOARES JUNIOR",
+      "anxietyLvl": 43,
+      "coffeeCups": 145,
+      "checks": 578
+    },
+    {
+      "id": 39,
+      "name": "MARY HART SANTOS",
+      "anxietyLvl": 4,
+      "coffeeCups": 52,
+      "checks": 678
+    },
+    {
+      "id": 40,
+      "name": "PHELIPE AQUINO CAMBRAIA DA SILVA",
+      "anxietyLvl": 85,
+      "coffeeCups": 136,
+      "checks": 894
+    },
+    {
+      "id": 41,
+      "name": "PRISCILA FATIMA DE CAMPOS",
+      "anxietyLvl": 82,
+      "coffeeCups": 161,
+      "checks": 597
+    },
+    {
+      "id": 42,
+      "name": "KATIA MAIA SILVA",
+      "anxietyLvl": 75,
+      "coffeeCups": 38,
+      "checks": 525
+    },
+    {
+      "id": 43,
+      "name": "ALEXSANDRO CASIMIRO",
+      "anxietyLvl": 33,
+      "coffeeCups": 32,
+      "checks": 491
+    },
+    {
+      "id": 44,
+      "name": "BRUNO SANTOS POZZA",
+      "anxietyLvl": 37,
+      "coffeeCups": 52,
+      "checks": 520
+    },
+    {
+      "id": 45,
+      "name": "RUBENS PAULO RODRIGUES PARENTE",
+      "anxietyLvl": 51,
+      "coffeeCups": 169,
+      "checks": 661
+    },
+    {
+      "id": 46,
+      "name": "ANDRE MEIRA DE SOUSA",
+      "anxietyLvl": 17,
+      "coffeeCups": 71,
+      "checks": 329
+    },
+    {
+      "id": 47,
+      "name": "HERBERT YAMURI SILVA DE LIMA",
+      "anxietyLvl": 25,
+      "coffeeCups": 126,
+      "checks": 301
+    },
+    {
+      "id": 48,
+      "name": "ALAN DIAS LISBOA",
+      "anxietyLvl": 63,
+      "coffeeCups": 120,
+      "checks": 150
+    },
+    {
+      "id": 49,
+      "name": "VIVIENE ARRUDA JOSE",
+      "anxietyLvl": 50,
+      "coffeeCups": 176,
+      "checks": 448
+    },
+    {
+      "id": 50,
+      "name": "WILSON ROBERTO CRISTOVAM JUNIOR",
+      "anxietyLvl": 79,
+      "coffeeCups": 90,
+      "checks": 196
+    },
+    {
+      "id": 51,
+      "name": "MARCOS ANTONIO DA ASSUNCAO",
+      "anxietyLvl": 59,
+      "coffeeCups": 48,
+      "checks": 672
+    },
+    {
+      "id": 52,
+      "name": "ANDERSON PEREIRA DA SILVA",
+      "anxietyLvl": 22,
+      "coffeeCups": 176,
+      "checks": 439
+    },
+    {
+      "id": 53,
+      "name": "GUILHERME DA SILVA",
+      "anxietyLvl": 2,
+      "coffeeCups": 80,
+      "checks": 651
+    },
+    {
+      "id": 54,
+      "name": "BRUNO DIAS SALES",
+      "anxietyLvl": 83,
+      "coffeeCups": 194,
+      "checks": 245
+    },
+    {
+      "id": 55,
+      "name": "JESSICA ARAUJO DOS SANTOS FERREIRA SOUZA",
+      "anxietyLvl": 48,
+      "coffeeCups": 58,
+      "checks": 527
+    },
+    {
+      "id": 56,
+      "name": "MICHELLE LOSCHA ABREU DE PARDO",
+      "anxietyLvl": 1,
+      "coffeeCups": 26,
+      "checks": 981
+    },
+    {
+      "id": 57,
+      "name": "RAQUEL SOUZA WERMELINGER",
+      "anxietyLvl": 57,
+      "coffeeCups": 4,
+      "checks": 670
+    },
+    {
+      "id": 58,
+      "name": "GUSTAVO BASTOS DE SOUZA KLEM",
+      "anxietyLvl": 23,
+      "coffeeCups": 26,
+      "checks": 874
+    },
+    {
+      "id": 59,
+      "name": "WELLINGTON APARECIDO FERREIRA",
+      "anxietyLvl": 41,
+      "coffeeCups": 74,
+      "checks": 636
+    },
+    {
+      "id": 60,
+      "name": "GUILHERME CIRINO FARIAS",
+      "anxietyLvl": 25,
+      "coffeeCups": 149,
+      "checks": 256
+    },
+    {
+      "id": 61,
+      "name": "FLAVIO CALAZANS RAMOS",
+      "anxietyLvl": 91,
+      "coffeeCups": 178,
+      "checks": 104
+    },
+    {
+      "id": 62,
+      "name": "GIZELLE SELYMES SCARABELI ANDRELO",
+      "anxietyLvl": 20,
+      "coffeeCups": 91,
+      "checks": 702
+    },
+    {
+      "id": 63,
+      "name": "LEANDRO SILVEIRA COELHO",
+      "anxietyLvl": 26,
+      "coffeeCups": 42,
+      "checks": 51
+    },
+    {
+      "id": 64,
+      "name": "FERNANDA MONTEIRO CASTELLAN",
+      "anxietyLvl": 90,
+      "coffeeCups": 141,
+      "checks": 804
+    },
+    {
+      "id": 65,
+      "name": "DANIELLE ANDRADE LAZARINI",
+      "anxietyLvl": 61,
+      "coffeeCups": 68,
+      "checks": 577
+    },
+    {
+      "id": 66,
+      "name": "FRANCISCO JUSCELINO FERREIRA MOURA FILHO",
+      "anxietyLvl": 17,
+      "coffeeCups": 152,
+      "checks": 174
+    },
+    {
+      "id": 67,
+      "name": "MOITA ALVES DELL ARETI",
+      "anxietyLvl": 80,
+      "coffeeCups": 42,
+      "checks": 984
+    },
+    {
+      "id": 68,
+      "name": "ANDRIA AMORIM FARIAS",
+      "anxietyLvl": 23,
+      "coffeeCups": 68,
+      "checks": 847
+    },
+    {
+      "id": 69,
+      "name": "RENATO SILVEIRA",
+      "anxietyLvl": 92,
+      "coffeeCups": 48,
+      "checks": 717
+    },
+    {
+      "id": 70,
+      "name": "FRANCISCO COSTA DE SOUZA JUNIOR",
+      "anxietyLvl": 51,
+      "coffeeCups": 128,
+      "checks": 924
+    },
+    {
+      "id": 71,
+      "name": "MIGUEL SOUSA LIMA",
+      "anxietyLvl": 19,
+      "coffeeCups": 30,
+      "checks": 124
+    },
+    {
+      "id": 72,
+      "name": "LARISSA RAQUEL CHIDI",
+      "anxietyLvl": 24,
+      "coffeeCups": 66,
+      "checks": 817
+    },
+    {
+      "id": 73,
+      "name": "RICHARDSON NITZ DA ROSA",
+      "anxietyLvl": 6,
+      "coffeeCups": 148,
+      "checks": 256
+    },
+    {
+      "id": 74,
+      "name": "IRAECIO DE SOUSA CARVALHO",
+      "anxietyLvl": 98,
+      "coffeeCups": 155,
+      "checks": 810
+    },
+    {
+      "id": 75,
+      "name": "LEONARDO SANTOS BOISSARD",
+      "anxietyLvl": 76,
+      "coffeeCups": 66,
+      "checks": 401
+    }
+  ]
+}

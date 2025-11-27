@@ -1,0 +1,13 @@
+<div class="totals-box">
+    <app-total-card [icon]="'people'" [title]="'Candidatos Esperando'" [content]="totalCandidatos"/>
+    <app-total-card [icon]="'area_chart'" [title]="'Ansiedade Média'" [content]="ansiedadeMedia"/>
+    <app-total-card [icon]="'coffee'" [title]="'Cafés Consumidos'" [content]="cafesConsumidos   "/>
+</div>
+
+@if (listaCarregada) {
+    <div class="candidates-box">
+        @for (candidato of listaCandidatos; track candidato.id) {
+            <app-candidate-card [candidato]="candidato"/>
+        }
+    </div>
+}
