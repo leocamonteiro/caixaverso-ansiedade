@@ -1,37 +1,98 @@
 .candidate-box {
-  width: 160px;
-  height: 140px;
-  padding: 12px 14px;
-
+  width: 240px;
+  min-height: 200px;
+  padding: 18px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
 
   background: #ffffff;
   border: 2px solid #e0e0e0;
-  border-radius: 16px;
+  border-radius: 18px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-
-  font-size: 12px;
+  font-size: 14px;
   color: #333;
-
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease, background 0.3s ease;
 
   h3 {
-    font-size: 14px;
-    font-weight: 600;
-    margin: 0 0 8px 0;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 14px 0;
     color: #222;
+    text-align: center;
   }
 
-  p {
-    margin: 2px 0;
-    line-height: 1.2;
+  .section {
+    width: 100%;
+    margin-bottom: 14px;
+
+    .label {
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: #555;
+    }
+
+    .status {
+      margin-top: 8px;
+      font-weight: 600;
+      font-size: 15px;
+      color: #444;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+
+      /* Emojis maiores */
+      font-size: 18px;
+    }
+  }
+
+  .phrase {
+    font-style: italic;
+    font-size: 13px;
+    color: #777;
+    margin-top: 8px;
+    text-align: center;
+  }
+
+  .coffee {
+    p {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 600;
+      font-size: 15px;
+    }
+
+    .coffee-icon {
+      color: #8b4513; // marrom café
+      font-size: 20px;
+    }
   }
 
   &:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-color: #ff6f61;
+    background: linear-gradient(135deg, #fff 0%, #ffe5d9 100%);
+    cursor: pointer;
   }
+}
+
+/* Temas extras para variar cores */
+.candidate-box.theme-blue:hover {
+  border-color: #2196f3;
+  background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+}
+
+.candidate-box.theme-green:hover {
+  border-color: #4caf50;
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+}
+
+.candidate-box.theme-purple:hover {
+  border-color: #9c27b0;
+  background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
 }

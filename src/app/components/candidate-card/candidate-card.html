@@ -1,6 +1,24 @@
 <div class="candidate-box">
-    <h3>{{ candidato.name }}</h3>
-    <p>Ansiedade: {{ candidato.anxietyLvl }}%</p>
-    <p>Cafés consumidos: {{ candidato.coffeeCups }} xícaras</p>
-</div>
+  <h3>{{ formattedName }}</h3>
 
+  <div class="section">
+    <p class="label">Ansiedade</p>
+    <mat-progress-bar
+      [value]="candidato.anxietyLvl"
+      mode="determinate"
+      color="accent">
+    </mat-progress-bar>
+    <p class="status">
+      {{ candidato.anxietyLvl }}% {{ anxietyEmoji }}
+    </p>
+    <p class="phrase">{{ randomPhrase }}</p>
+  </div>
+
+  <div class="section coffee">
+    <p>
+      Cafés consumidos:
+      <mat-icon class="coffee-icon">coffee</mat-icon>
+      {{ candidato.coffeeCups }}
+    </p>
+  </div>
+</div>

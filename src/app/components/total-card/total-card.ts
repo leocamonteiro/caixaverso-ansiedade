@@ -3,12 +3,13 @@ import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-total-card',
+  standalone: true,
   imports: [MatIconModule],
   templateUrl: './total-card.html',
-  styleUrl: './total-card.scss',
+  styleUrls: ['./total-card.scss'],
 })
 export class TotalCard {
   @Input() icon: string = "";
   @Input() title: string = "";
-  @Input() content: number = 0;
+  @Input() content: number | string = 0;
 }

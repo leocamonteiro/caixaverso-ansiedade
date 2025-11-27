@@ -27,7 +27,7 @@ export class Dashboard implements OnInit {
       next: (data) => {
         this.listaCandidatos = data;
         this.totalCandidatos = data.length;
-        this.ansiedadeMedia = data.reduce((acc, c) => acc + c.anxietyLvl, 0) / data.length;
+        this.ansiedadeMedia = Math.round(data.reduce((acc, c) => acc + c.anxietyLvl, 0) / data.length);
         this.cafesConsumidos = data.reduce((acc, c) => acc + c.coffeeCups, 0);
       },
       error: (err) => console.log(err),
